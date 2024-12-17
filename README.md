@@ -1,0 +1,2 @@
+# DESIGN-AND-IMPLEMENTATION-OF-PORTABLE-E-NOSE-FOR-AIR-QUALITY-MONITORING-SYSTEM
+The Portable E-Nose for Air Quality Monitoring is a compact and cost-effective  device designed to detect and monitor harmful gases in drainage systems and  environmental pollutants in Real-time. This system emulates the human sense of smell  by utilizing a blend of gas sensors to deliver precise air quality measurements.  
